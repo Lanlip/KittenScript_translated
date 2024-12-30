@@ -36,5 +36,5 @@ Espero que puedan entender por que lo hice, incluso siendo parte del personal de
 ```
 
 # By me 
-KR - 쉽지 않은 결정일텐데 이렇게나마 공유해주셔서 감사드리네요. 또 대학 원하시는곳 붙었다고 들었는데 아무쪼록 대학생활 성실하고 재밌게 하셨으면 합니다</b>
+KR - 쉽지 않은 결정일텐데 이렇게나마 공유해주셔서 감사드리네요. 또 대학 원하시는곳 붙었다고 들었는데 아무쪼록 대학생활 성실하고 재밌게 하셨으면 합니다  
 ES - Soy principiante en español, asi que puede que haya errores tipograficos porque he consultado muchas fuentes. Ademas, aun no he memorizado todos los acentos, asi que los he eliminado. Por favor, entiendanme. Gracias y viva españa!
