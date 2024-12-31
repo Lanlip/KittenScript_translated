@@ -59,7 +59,7 @@ labels = {
     Money_labels = {
         money_div = "돈 메뉴",
 
-        money_tab = "돈 메뉴
+        money_tab = "돈 메뉴",
         instant_tab = "빠른옵션",    
         safe_tab = "안전한 옵션",
         custom_tab = "커스텀 옵션",
