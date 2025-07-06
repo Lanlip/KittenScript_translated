@@ -1,20 +1,19 @@
     --[[
-        개발자: @volalume
-        번역: @linvy
+        구버전 개발자: @volalume
+        번역 및 1.71패치: @elgatolan
         최초 개발자: @icedoomfist / https://github.com/IceDoomfist
         MEOW
     ]]--
     --[[
-    V5-a 변경사항:
-        (1.70-b.3411 업데이트 무시)
-        추가 -> 오프닝 크레딧 일부 수정
-        고침 -> Limit 디버그 텍스트 표시가 작동하지 않던 오류 해결
+    V6-beta 변경사항:
+        (1.71V 오비탈 대응패치)
+        오비탈루프만 패치해서 다른건 작동할지 확실X
     ]]--
 --------
 
 main_var = {
     SCRIPT_NAME = "Kitten",
-    SCRIPT_VER = "5-a",
+    SCRIPT_VER = "6-beta", -- patched only orbital roop method which is necessary
 
     delay_Type = 1,
     delay_sec = {
@@ -139,8 +138,8 @@ labels = {
     Watermark_label = {
         none = "",
         name = "Kitten Script".." v"..main_var.SCRIPT_VER,
-        credit = "@volalume @icedoomfist",
-        github_dir = "~y~https://github.com/Volalume/Stand-Kitten-Script",
+        credit = "@volalume @icedoomfist @elgatolan",
+        github_dir = "~y~https://github.com/Lanlip/KittenScript_translated,
 
         orbital_wlf = {
             flag_500 = "orbital_flag: waiting_delay_1",
@@ -175,7 +174,7 @@ global_var = {
     
     instant = {
         ezmoney = 4537945, --3407
-        orbital = 1962995, --3407
+        orbital = 1965092, --retarded
         chips = 1963515, --outdated (shit)
     },
 
